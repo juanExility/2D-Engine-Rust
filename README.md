@@ -22,8 +22,13 @@ This project explores the **Entity Component System (ECS)** architecture and sof
 
 ## 🕹️ How to Run
 
-1. Make sure you have the Rust toolchain installed.
-2. Clone the repo.
-3. Run the following command in your terminal (avoid `rm -rf /*` please):
-   ```bash
-   cargo run --release
+1. Clone the repo.
+   
+2. You will need `rustup` and `cargo` to run.
+   
+3. To download these, open terminal and type `sudo apt  install cargo` , then `sudo apt  install rustup`.
+   
+4. Run the following command in your terminal : `cargo run --release`
+   
+5. If it doesnt run and says "rustup could not choose a version of cargo to run, because one wasn't specified explicitly, and no default is configured."
+type `rustup default stable` and try running again.
