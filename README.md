@@ -4,7 +4,6 @@ A lightweight, high-performance 2D game engine built with **Rust** 🦀.
 This project explores the **Entity Component System (ECS)** architecture and software-based rendering using the `minifb` library.
 
 > **Current Status:** Under active exploration and reverse engineering.
-> Developed during "Geography World Tours" and "German Exam Recovery" sessions. 🕵️‍♂️
 
 ## 🛠️ Tech Stack & Architecture
 
